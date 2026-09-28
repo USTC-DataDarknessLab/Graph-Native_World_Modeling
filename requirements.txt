@@ -1,0 +1,6 @@
+torch==2.5.1
+torch-geometric==2.6.1
+py-tgb==2.3.0
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
