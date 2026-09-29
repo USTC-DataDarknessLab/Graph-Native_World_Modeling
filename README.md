@@ -50,3 +50,18 @@ python main.py --task T3 --dataset flights --device cuda:0
 ```
 
 Available datasets: `flights`, `contact`, and `enron`.
+
+## Citation
+If you find our work useful in your research, please consider citing our paper, **[WorldGraph: Graph-Native World Modeling](https://arxiv.org/abs/2609.34159)**. Thank you!
+
+```bibtex
+@misc{ding2026worldgraphgraphnativeworldmodeling,
+  title         = {WorldGraph: Graph-Native World Modeling},
+  author        = {Zezhong Ding and Yipeng Li and Xike Xie},
+  year          = {2026},
+  eprint        = {2609.34159},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2609.34159}
+}
+```
